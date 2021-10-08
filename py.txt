@@ -1,0 +1,2 @@
+1. Download and install Python
+2. Open file with Python IDLE 
